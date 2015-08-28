@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name       Mirkoonline
 // @namespace  http://wykop.pl/
-// @version    1.1
+// @version    1.2
 // @description  Liczba aktywnych mirków
 // @match      http://www.wykop.pl/*
 // @copyright  2014, @Grizwold
-// @updateURL   http://tomek.ckhost.pl/mirkoonline/mirkoonline.user.js
-// @installURL  http://tomek.ckhost.pl/mirkoonline/mirkoonline.user.js
-// @downloadURL http://tomek.ckhost.pl/mirkoonline/mirkoonline.user.js
+// @updateURL   https://github.com/tomekbielaszewski/mirkoonline-bot-userscript/raw/master/mirkoonline.user.js
+// @installURL  https://github.com/tomekbielaszewski/mirkoonline-bot-userscript/raw/master/mirkoonline.user.js
+// @downloadURL https://github.com/tomekbielaszewski/mirkoonline-bot-userscript/raw/master/mirkoonline.user.js
 // ==/UserScript==
 
 $(function(){
