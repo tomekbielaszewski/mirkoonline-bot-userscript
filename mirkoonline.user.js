@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name       Mirkoonline
-// @namespace  http://wykop.pl/
-// @version    1.3
+// @namespace  https://wykop.pl/
+// @version    1.4
 // @description  Liczba aktywnych mirków
-// @match      http://www.wykop.pl/*
+// @match      https://www.wykop.pl/*
 // @copyright  2014, @Grizwold
 // @updateURL   https://github.com/tomekbielaszewski/mirkoonline-bot-userscript/raw/master/mirkoonline.user.js
 // @installURL  https://github.com/tomekbielaszewski/mirkoonline-bot-userscript/raw/master/mirkoonline.user.js
