@@ -17,7 +17,7 @@ $(function () {
 
   function refreshCounter() {
     $.ajax({
-      url: 'http://35.160.50.195:8080/entries/last/mirkoonline',
+      url: 'http://api.grizwold.pl:8080/entries/last/mirkoonline',
       dataType: 'jsonp',
       success: function (data) {
         if (data != null) {
