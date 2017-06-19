@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Mirkoonline
 // @namespace  https://wykop.pl/
-// @version    1.4
+// @version    1.5
 // @description  Liczba aktywnych mirków
 // @match      https://www.wykop.pl/*
 // @copyright  2014, @Grizwold
